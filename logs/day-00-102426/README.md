@@ -56,19 +56,19 @@ Each drive got a three-digit ID and a Sharpie color: green = good, orange = caut
 
 
 
-- [ ] Zero-wipe all 3.5" drives
+- ☑️ Zero-wipe all 3.5" drives
 
-- [ ] `diskpart clean` the NAS drives, then retest the ix4-300d
+- ☑️ `diskpart clean` the NAS drives, then retest the ix4-300d
 
-- [ ] Find LenovoEMC Storage Manager for the ix4-300d
+- ☑️ Find LenovoEMC Storage Manager for the ix4-300d
 
-- [ ] Install `smbclient` and `cifs-utils` on Ubuntu to reach the NAS and Windows shares
+- ⬛ Install `smbclient` and `cifs-utils` on Ubuntu to reach the NAS and Windows shares
 
-- [ ] Get a micro-HDMI dummy plug for headless Pi use
+- ⬛ Get a micro-HDMI dummy plug for headless Pi use
 
-- [ ] Try HDD Guru tools on Windows
+- ⬛ Try HDD Guru tools on Windows
 
-- [ ] Find the cause of the 23 GB of unexplained usage on one drive
+- ⬛ Find the cause of the 23 GB of unexplained usage on one drive
 
-- \[ ] Choose a power-button setup for the laptop-to-desktop build
+- ⬛ Choose a power-button setup for the laptop-to-desktop build
 
