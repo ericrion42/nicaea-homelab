@@ -72,3 +72,12 @@ Each drive got a three-digit ID and a Sharpie color: green = good, orange = caut
 
 - ⬛ Choose a power-button setup for the laptop-to-desktop build
 
+
+## Photos
+
+![Darius and Matthew are working to dissect an old gaming laptop](images/laptop-darius-matthew)
+![Front of the rack](images/laptop-matthew.jpg)
+![Front of the rack](images/windows-install-1024.jpg)
+![Front of the rack](images/rack-darius.jpg)
+![Front of the rack](images/rack-back-1024.jpg)
+
