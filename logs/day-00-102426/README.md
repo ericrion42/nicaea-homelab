@@ -75,7 +75,7 @@ Each drive got a three-digit ID and a Sharpie color: green = good, orange = caut
 
 ## Photos
 
-![Darius and Matthew are working to dissect an old gaming laptop](images/laptop-darius-matthew)
+![Darius and Matthew are working to dissect an old gaming laptop](images/laptop-darius-matthew.jpg)
 ![Front of the rack](images/laptop-matthew.jpg)
 ![Front of the rack](images/windows-install-1024.jpg)
 ![Front of the rack](images/rack-darius.jpg)
