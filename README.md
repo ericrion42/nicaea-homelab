@@ -1,39 +1,22 @@
-# Chirpy Starter
+# Nicaea Homelab
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This is a homelab environment I'm building to learn the kind of IT technician skills needed to set up, network, secure, monitor, and troubleshoot computer systems. I'm using a 10-inch mini rack to get hands-on experience as I prepare for IT and data center technician roles.
 
-A minimal, ready-to-use template for creating a blog with the [**Chirpy**][chirpy] Jekyll theme. Get up and running in minutes with all critical files pre-configured.
+## Goals
 
-## Why This Starter Exists
+- [x] Obtain CompTIA A+ Certification
+- [ ] Obtain CompTIA Network+
+- [ ] Obtain CompTIA Security+
+- [ ] Build hands-on experience in rack and stack, structured cabling, Windows Server, and Active Directory
+- Maintain CompTIA A+ skills
+- 
 
-When installing Chirpy through [RubyGems.org][gem], Jekyll can only read a subset of theme files (`_data`, `_layouts`, `_includes`, `_sass`, `assets`) and limited `_config.yml` options from the gem. As a result, users cannot enjoy the full out-of-the-box experience that Chirpy offers.
 
-To unlock all features, the following files must be present in your Jekyll site:
+## Skills Demonstrated
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-This starter bundles those files from the latest **Chirpy** release along with a [CD][CD] workflow, so you can start writing immediately.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+- **Rack and stack:** planned rack layout, handling airflow and hardware placement to minimize heat
+- **Structured cabling:** set a color-coded scheme, routed every connection through patch panel, terminated Cat6 cables to T568B, tested cables, and managed cable runs
+- **Networking:** planned a /24 subnet with a router-to-switch topology, DHCP for clients, and a static IP for the server
+- **Windows Server 2019:** installed Active Directory Domain Services and promoted a domain controller with PowerShell
+- **Troubleshooting:** fixed missing drivers using hardware IDs, isolated DNS versus link problems, and verified downloads with SHA-256 checksums
+- **Documentation:** wrote build logs, a rack layout, and a cabling standard
