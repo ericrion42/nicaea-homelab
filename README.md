@@ -20,3 +20,11 @@ This is a homelab environment I'm building to learn the kind of IT technician sk
 - **Windows Server 2019:** installed Active Directory Domain Services and promoted a domain controller with PowerShell
 - **Troubleshooting:** fixed missing drivers using hardware IDs, isolated DNS versus link problems, and verified downloads with SHA-256 checksums
 - **Documentation:** wrote build logs, a rack layout, and a cabling standard
+
+
+## Hardware
+
+| ID Name   | Hardware                           | Role                                  |
+|-----------|------------------------------------|---------------------------------------|
+| Decarabia | Lenovo M910q Tiny, i5-6500T, 16 GB | Windows Server 2019 domain controller |
+| Pascal    | NETGEAR GS308E 8-port switch       | Core rack switch                      |
