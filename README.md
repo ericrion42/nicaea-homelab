@@ -4,12 +4,20 @@ This is a homelab environment I'm building to learn the kind of IT technician sk
 
 ## Goals
 
-::white_check_mark:: Obtain CompTIA A+ Certification
-- [ ] Obtain CompTIA Network+
-- [ ] Obtain CompTIA Security+
-- [ ] Build hands-on experience in rack and stack, structured cabling, Windows Server, and Active Directory
-- Maintain CompTIA A+ skills
-- 
+☑️ Obtain CompTIA A+ Certification 
+ 
+🔳 Obtain CompTIA Network+ 
+
+🔳 Obtain CompTIA Security+ 
+
+⏳ Build hands-on experience in rack and stack, structured cabling, Windows Server, and Active Directory 
+
+🔁 Maintain CompTIA A+ skills
+
+
+**KEY**
+
+☑️ Done **·** ⏳ In progress **·** 🔁 Ongoing **·** ⬛ Planned
 
 
 ## Skills Demonstrated
