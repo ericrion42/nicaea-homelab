@@ -1,4 +1,4 @@
-\#10/03/2026: OS Installs and BIOS Work
+# 10/03/2026: OS Installs and BIOS Work
 
 
 
@@ -6,27 +6,27 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 
 
-\## Lab crew
+## Lab crew
 
 
 
-\## What we did
+## What we did
 
 
 
-\- Set up a shared workspace with ESD mats, monitors, keyboards and the machines we were working on.
+- Set up a shared workspace with ESD mats, monitors, keyboards and the machines we were working on.
 
-\- Opened up a Lenovo tiny PC and used the startup interrupt menu to get into the BIOS and boot options.
+- Opened up a Lenovo tiny PC and used the startup interrupt menu to get into the BIOS and boot options.
 
-\- Hit a BIOS password prompt on one machine. \[FILL IN: whose machine, and whether you got past it]
+- Hit a BIOS password prompt on one machine. \[FILL IN: whose machine, and whether you got past it]
 
-\- Installed FreeBSD and used its partition editor to wipe and repartition the target drive.
+- Installed FreeBSD and used its partition editor to wipe and repartition the target drive.
 
-\- \[FILL IN: any other installs or projects people worked on]
+- \[FILL IN: any other installs or projects people worked on]
 
 
 
-\## Troubleshooting
+## Troubleshooting
 
 
 
@@ -38,17 +38,17 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 
 
-\## Lessons learned
+## Lessons learned
 
 
 
-\- FreeBSD's installer warns before it commits partition changes. Once you hit Commit, the existing data is gone.
+- FreeBSD's installer warns before it commits partition changes. Once you hit Commit, the existing data is gone.
 
-\- \[FILL IN]
+- \[FILL IN]
 
 
 
-\## Photos
+## Photos
 
 
 
