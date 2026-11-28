@@ -2,13 +2,22 @@
 
 
 
-Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs, and ran a FreeBSD install. \[FILL IN: one more sentence on the main goal of the day]
+Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs, and ran a FreeBSD install. 
 
 
 
 ## Lab crew
+- Brian Ayiteyfio
 
+- Darius Phillips
 
+- Eric Rion
+
+- Mary Harbin
+
+- Matthew Murray
+
+- Shannon Jordan
 
 ## What we did
 
@@ -22,7 +31,6 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 - Installed FreeBSD and used its partition editor to wipe and repartition the target drive.
 
-- \[FILL IN: any other installs or projects people worked on]
 
 
 
@@ -82,7 +90,7 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 <tr>
 
-<td><img src="images/20261003\_141430.jpg" width="250"><br>\[FILL IN: caption]</td>
+<td><img src="images/20261003_141430.jpg" width="250"><br>Laptop Diagnostics</td>
 
 </tr>
 
