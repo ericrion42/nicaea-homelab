@@ -31,10 +31,8 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 
 | Problem | Cause | Fix |
-
 | --- | --- | --- |
-
-| BIOS asked for a password | \[FILL IN] | \[FILL IN] |
+| BIOS asked for a password | Old owner used a password and didn't give it to me when I purchased the unit | This was a tough one. I tried removing the CMOS battery but that didn't work. Eventually I had to locate the BIOS jumper and remove it. |
 
 
 
@@ -43,8 +41,6 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 
 - FreeBSD's installer warns before it commits partition changes. Once you hit Commit, the existing data is gone.
-
-- \[FILL IN]
 
 
 
