@@ -27,7 +27,7 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 - Opened up a Lenovo tiny PC and used the startup interrupt menu to get into the BIOS and boot options.
 
-- Hit a BIOS password prompt on one machine. \[FILL IN: whose machine, and whether you got past it]
+- Hit a BIOS password prompt on one machine. 
 
 - Installed FreeBSD and used its partition editor to wipe and repartition the target drive.
 
@@ -44,11 +44,12 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 
 
+
 ## Lessons learned
 
 
 
-- FreeBSD's installer warns before it commits partition changes. Once you hit Commit, the existing data is gone.
+- It seems like  fewer and fewer computers can bypass the BIOS password issue just by removing the BIOS.
 
 
 
