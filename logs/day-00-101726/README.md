@@ -50,25 +50,5 @@ Team lab day. We installed Windows Server 2019 on Decarabia, put new drives in t
 
 
 
-<table>
-
-<tr>
-
-<td><img src="images/windows-server-installation.jpg" width="250"><br>Installing Windows Server 2019</td>
-
-<td><img src="images/windows-server-success.jpg" width="250"><br>Windows Server up and running</td>
-
-<td><img src="images/nas-view.jpg" width="250"><br>NAS after the drive swap</td>
-
-</tr>
-
-<tr>
-
-<td><img src="images/cable-termination-mary.jpg" width="250"><br>Mary terminating Cat6</td>
-
-<td><img src="images/discussion-darius-mary.jpg" width="250"><br>Darius and Mary</td>
-
-</tr>
-
-</table>
+- To be added later
 
