@@ -1,4 +1,4 @@
-\# 10/10/2026: Cable Termination and Laptop Teardown
+# 10/10/2026: Cable Termination and Laptop Teardown
 
 
 
@@ -6,7 +6,7 @@ Team lab day. We practiced terminating Cat6 cables with RJ45 connectors and took
 
 
 
-\## Lab crew
+## Lab crew
 
 
 
@@ -15,25 +15,25 @@ Team lab day. We practiced terminating Cat6 cables with RJ45 connectors and took
 
 
 
-\## What we did
+## What we did
 
 
 
-\- O'Donald terminated Cat6 cables: stripped the jacket, put the wires in T568B order, and crimped on RJ45 connectors.
+- O'Donald terminated Cat6 cables: stripped the jacket, put the wires in T568B order, and crimped on RJ45 connectors.
 
-\- Took apart a gaming laptop down to the motherboard and pulled the SATA SSD.
-
-
-
-\## Lessons learned
+- Took apart a gaming laptop down to the motherboard and pulled the SATA SSD.
 
 
 
-\- T568B order: orange-white, orange, green-white, blue, blue-white, green, brown-white, brown.
+## Lessons learned
 
 
 
-\## Photos
+- T568B order: orange-white, orange, green-white, blue, blue-white, green, brown-white, brown.
+
+
+
+## Photos
 
 
 
