@@ -1,4 +1,4 @@
-\# 10/03/2026: OS Installs and BIOS Work
+\#10/03/2026: OS Installs and BIOS Work
 
 
 
@@ -7,10 +7,6 @@ Team lab day. We set up the lab space, worked in the BIOS on the Lenovo tiny PCs
 
 
 \## Lab crew
-
-
-
-\[FILL IN: names or GitHub handles of who attended]
 
 
 
